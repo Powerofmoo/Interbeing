@@ -6,9 +6,9 @@ Video Link: https://youtu.be/NLQ5kLCFVug
 
 Code for Telegram bot as well as GPT definition in this Github
 
-To try it out yourself, try:
+To try it out yourself, 
 
-Connect to Interebeing Telegram Bot, for sending your warm data input by Telegram (text or voice)
+Connect to Interebeing Telegram Bot, for sending your warm data input by Telegram (text or voice):
 https://t.me/MoosMeshMaker_bot
 
 Custom ChatGPT (requires ChatGPT Plus Abo), interact directly with the Bot to store and retrieve warm data from/with the Interbeing.
